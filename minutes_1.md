@@ -1,4 +1,4 @@
-# Lauryn Davis
+## Lauryn Davis
 
 | PBI           | Sprint   |
 |---------------|----------|
