@@ -10,8 +10,12 @@
 - Identify at least one feature of your software product and then develop a prototype for each of them.       
 
 ## Lauryn Davis 
-### Sprint 2 (9/24/25)
-- [x] Product Vision
+
+| PBI            | Sprint 2(9/24/25) |
+|----------------|-------------------|
+| Product Vision | <input type="checkbox" checked> Completed |
+| App Layout     | <input type="checkbox"> In Progress |
+
 
 
 Product Vision- 
