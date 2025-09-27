@@ -9,6 +9,14 @@
 - Draw and describe your prototype or you can draw it on a piece of paper and then take photos of it.
 - Identify at least one feature of your software product and then develop a prototype for each of them.       
 
+## Lauryn Davis 
+| PBI        | Sprint 2(9/24/25)|
+|------------|------------------|
+|Product Vision |- [x] completed|
+
+
+Product Vision- 
+“Our vision is to create a universal retail scanner app that empowers shoppers, store associates, and business owners to instantly access accurate product information, compare prices, and manage inventory efficiently. By combining barcode scanning, real-time data, and smart insights, the app simplifies shopping decisions, improves store operations, and helps businesses optimize sales—all through one seamless platform.”
 
 
 
