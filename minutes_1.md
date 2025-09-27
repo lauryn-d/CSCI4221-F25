@@ -21,6 +21,8 @@
 Product Vision- 
 “Our vision is to create a universal retail scanner app that empowers shoppers, store associates, and business owners to instantly access accurate product information, compare prices, and manage inventory efficiently. By combining barcode scanning, real-time data, and smart insights, the app simplifies shopping decisions, improves store operations, and helps businesses optimize sales—all through one seamless platform.”
 
+Persona 1 — Everyday Shopper: “Maya — The Price-Conscious Buyer”
+|Primary use case| Maya walks into a store, scans a product barcode to check price, ingredient/allergen info, and whether a cheaper option exists nearby or online.|
 
 
 
