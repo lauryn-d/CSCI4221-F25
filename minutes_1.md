@@ -26,9 +26,9 @@ Persona 1 — Everyday Shopper: “Maya — The Price-Conscious Buyer”
 |------------------|-------------|
 | Maya             | Walks into a store, scans a product barcode to check price, ingredient/allergen info, and whether a cheaper option exists nearby or online. |
 |Prototype (screens & key elements)| 
-- Big central camera view with a single-shot scan button labeled “Scan product”.
-- Small toggle: Barcode / Image / Manual look-up.
-- Top-right: Profile & saved lists icon.
+ Big central camera view with a single-shot scan button labeled “Scan product”.
+ Small toggle: Barcode / Image / Manual look-up.
+ Top-right: Profile & saved lists icon.
 |
 
 
