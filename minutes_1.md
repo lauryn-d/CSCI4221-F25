@@ -1,4 +1,4 @@
-## Lauryn Davis
+## Sprint 1
 
 | PBI           | Sprint   |
 |---------------|----------|
@@ -9,7 +9,7 @@
 - Draw and describe your prototype or you can draw it on a piece of paper and then take photos of it.
 - Identify at least one feature of your software product and then develop a prototype for each of them.       
 
-## Lauryn Davis 
+## Sprint 2 
 
 | PBI            | Sprint 2(9/24/25) |
 |----------------|-------------------|
