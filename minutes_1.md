@@ -1,6 +1,6 @@
 ## Sprint 1
 
-| PBI           | Sprint   |
+| PBI           | Sprint 1(9/22/25)   |
 |---------------|----------|
 | Create Product Design and Name | Sprint 1 |
 | Product Vision| Sprint 2|
