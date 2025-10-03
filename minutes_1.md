@@ -21,10 +21,11 @@
 Product Vision- 
 “Our vision is to create a universal retail scanner app that empowers shoppers, store associates, and business owners to instantly access accurate product information, compare prices, and manage inventory efficiently. By combining barcode scanning, real-time data, and smart insights, the app simplifies shopping decisions, improves store operations, and helps businesses optimize sales—all through one seamless platform.”
 ## Sprint 3
-Assigned to...
+Assigned to... <br>
 Lauryn D.- Product vision <br>
 Lauren F. -Persona,user story <br>
-Cameron H. -Primary use case, protoype
+Cameron H. -Primary use case, protoype <br>
+Reviewed by Lauryn D.
 # Personas — Universal Scanner App
 
 | Persona |User Story| Primary use case | Prototype (screens & key elements) |
