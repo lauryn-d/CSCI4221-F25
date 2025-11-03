@@ -10,3 +10,5 @@
 | 7 | **User Story (Maya):** Scan a product to instantly see its price, attributes, reviews, and nearby cheaper options to decide whether to buy it now. | Ready for implementation | 4 weeks | Two juniors and one senior for 96 hours | Lauryn Davis | Cameron Howell|
 | 8 | **User Story (Ethan):** Scan a product to confirm current price, inventory levels, and aisle location; if mismatch, file a quick update report. | Ready for implementation | 4 weeks | Two juniors and one senior for 96 hours | Cameron Howell | Lauryn Davis|
 | 9 | **User Story (Priya):** Scan products during walkthroughs to verify stock, apply sale prices, and review analytics for decision-making. | Ready for implementation | 4 weeks | Two juniors and one senior for 96 hours | Lauren Flournoy | Lauryn Davis |
+
+
